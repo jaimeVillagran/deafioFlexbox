@@ -1,2 +1,2 @@
-# deafioFlexbox
+# desafioFlexbox
 Desarrollo Opcional Flexbox
